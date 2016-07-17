@@ -1,3 +1,0 @@
-puclic class User{
-	
-}
